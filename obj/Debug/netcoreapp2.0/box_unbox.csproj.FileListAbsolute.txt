@@ -1,0 +1,10 @@
+/Users/rose/Desktop/DojoAssignments/netCore/box_unbox/bin/Debug/netcoreapp2.0/box_unbox.deps.json
+/Users/rose/Desktop/DojoAssignments/netCore/box_unbox/bin/Debug/netcoreapp2.0/box_unbox.runtimeconfig.json
+/Users/rose/Desktop/DojoAssignments/netCore/box_unbox/bin/Debug/netcoreapp2.0/box_unbox.runtimeconfig.dev.json
+/Users/rose/Desktop/DojoAssignments/netCore/box_unbox/bin/Debug/netcoreapp2.0/box_unbox.dll
+/Users/rose/Desktop/DojoAssignments/netCore/box_unbox/bin/Debug/netcoreapp2.0/box_unbox.pdb
+/Users/rose/Desktop/DojoAssignments/netCore/box_unbox/obj/Debug/netcoreapp2.0/box_unbox.csproj.CoreCompileInputs.cache
+/Users/rose/Desktop/DojoAssignments/netCore/box_unbox/obj/Debug/netcoreapp2.0/box_unbox.AssemblyInfoInputs.cache
+/Users/rose/Desktop/DojoAssignments/netCore/box_unbox/obj/Debug/netcoreapp2.0/box_unbox.AssemblyInfo.cs
+/Users/rose/Desktop/DojoAssignments/netCore/box_unbox/obj/Debug/netcoreapp2.0/box_unbox.dll
+/Users/rose/Desktop/DojoAssignments/netCore/box_unbox/obj/Debug/netcoreapp2.0/box_unbox.pdb
